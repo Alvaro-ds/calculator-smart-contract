@@ -116,8 +116,7 @@ These events allow tracking contract activity off-chain.
 
 ## Author
 
-Developed as part of a hands-on blockchain learning process, focusing on understanding Solidity fundamentals and contract structure.
-
+Álvaro Dapena Salinas.
 
 ## License
 
